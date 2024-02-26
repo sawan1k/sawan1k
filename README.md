@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thesawankumar2" target="blank"><img src="https://img.shields.io/twitter/follow/thesawankumar2?logo=twitter&style=for-the-badge" alt="thesawankumar2" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js,mongodb**
+- 🌱 I’m currently learning **typescript,nextjs**
 
 - 💬 Ask me about **MERN,DSA**
 
